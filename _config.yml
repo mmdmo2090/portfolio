@@ -24,8 +24,7 @@ github_username:  mmdmo2090
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
-remote_theme: fongandrew/hydeout
+theme: minimal-jekyll-theme
 plugins:
   - jekyll-feed
 
